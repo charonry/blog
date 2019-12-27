@@ -1,0 +1,6 @@
+2019-12-21 11:28:28.521  INFO 13400 --- [restartedMain] com.charon.blog.BlogApplication          : Starting BlogApplication on DESKTOP-OGE1TRC with PID 13400 (started by Administrator in D:\development tool\IDEA_Worker\blog)
+2019-12-21 11:28:28.522  INFO 13400 --- [restartedMain] com.charon.blog.BlogApplication          : The following profiles are active: pro
+2019-12-21 11:28:34.004  WARN 13400 --- [restartedMain] .t.AbstractTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2019-12-21 11:28:34.913  INFO 13400 --- [restartedMain] com.charon.blog.BlogApplication          : Started BlogApplication in 7.299 seconds (JVM running for 8.999)
+2019-12-21 11:49:47.018  INFO 12636 --- [restartedMain] com.charon.blog.BlogApplication          : Starting BlogApplication on DESKTOP-OGE1TRC with PID 12636 (started by Administrator in D:\development tool\IDEA_Worker\blog)
+2019-12-21 11:49:47.020  INFO 12636 --- [restartedMain] com.charon.blog.BlogApplication          : The following profiles are active: pro
